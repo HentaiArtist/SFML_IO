@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pxlan\\Desktop\\мои проекты по програмированию\\SFML_IO\\SFML_IO\\SFML_IO.csproj": {}
+    "C:\\Users\\pxlan\\Desktop\\Груповой Гит\\SFML_IO\\SFML_IO\\SFML_IO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pxlan\\Desktop\\мои проекты по програмированию\\SFML_IO\\SFML_IO\\SFML_IO.csproj": {
+    "C:\\Users\\pxlan\\Desktop\\Груповой Гит\\SFML_IO\\SFML_IO\\SFML_IO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pxlan\\Desktop\\мои проекты по програмированию\\SFML_IO\\SFML_IO\\SFML_IO.csproj",
+        "projectUniqueName": "C:\\Users\\pxlan\\Desktop\\Груповой Гит\\SFML_IO\\SFML_IO\\SFML_IO.csproj",
         "projectName": "SFML_IO",
-        "projectPath": "C:\\Users\\pxlan\\Desktop\\мои проекты по програмированию\\SFML_IO\\SFML_IO\\SFML_IO.csproj",
+        "projectPath": "C:\\Users\\pxlan\\Desktop\\Груповой Гит\\SFML_IO\\SFML_IO\\SFML_IO.csproj",
         "packagesPath": "C:\\Users\\pxlan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pxlan\\Desktop\\мои проекты по програмированию\\SFML_IO\\SFML_IO\\obj\\",
+        "outputPath": "C:\\Users\\pxlan\\Desktop\\Груповой Гит\\SFML_IO\\SFML_IO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pxlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
